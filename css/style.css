@@ -15,3 +15,26 @@ body {
   align-items: center;
   height: 100vh;
 }
+
+.form {
+  width: 350px;
+  position: relative;
+}
+
+.input {
+  width: 100%;
+  border: 1px solid #fff;
+  font-size: 24px;
+  padding: 10px 40px 10px 10px;
+  background-color: transparent;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.output {
+  position: absolute;
+  right: 20px;
+  top: 16px;
+  font-size: 20px;
+  color: #fff;
+}
